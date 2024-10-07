@@ -1,2 +1,1 @@
-# portfolio-react
-A portfolio for react projects.
+A migration of my portfolio website from Jekyll, written with React.

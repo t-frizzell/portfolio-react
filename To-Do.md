@@ -1,0 +1,11 @@
+# To-Do
+- Blog 
+    - React Router
+    - CSS stylings
+    - Deploy to gh-pages
+- Demos
+    - Weather Demo
+    - 2FA Demo
+- Layout & Stylings
+    - Phone / Computer Responsive
+    - Light / Dark Mode
